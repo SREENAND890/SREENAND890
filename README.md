@@ -9,8 +9,8 @@ I'm sreenand, Python Full-Stack Developer with experience building scalable web 
 
 - **Name**: Sreenand
 - **From**: Kerala
-- **Python Full-Stack Developer** | **Backend Engineer** | **API Specialist**
-- I have experience building scalable web applications, designing RESTful APIs, and developing secure backend systems using Python, Django, FastAPI, and JavaScript frameworks.
+- **Python Full-Stack Developer** | **Backend Developer** | **API Specialist**
+- I have experience building scalable web applications, designing RESTful APIs, and developing secure backend systems using Python, Django, RestAPI, and JavaScript frameworks.
 - Continuously improving my skills in **full-stack development**, **database optimization** and **cloud-based deployment**.
 - I’m currently learning and exploring **advanced Python frameworks**, **microservices**, **DevOps tools**, and **modern front-end technologies**.
 
@@ -47,6 +47,8 @@ I'm sreenand, Python Full-Stack Developer with experience building scalable web 
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
       <!-- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" /> -->
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/REST-API-02569B?style=for-the-badge" alt="REST API" />
+
 
 
 
