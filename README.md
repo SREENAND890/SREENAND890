@@ -73,7 +73,7 @@ I'm sreenand, Python Full-Stack Developer with experience building scalable web 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Project 1](https://github.com/)**    | Short Description |
-| **[Project 2]([https://github.com/](https://github.com/SREENAND890/ecom_django.git))**    | E-commerce |
+| **[Project 2](https://github.com/SREENAND890/ecom_django.git)**    | E-commerce |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
