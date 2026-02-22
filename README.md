@@ -2,7 +2,7 @@
 
 I'm sreenand, Python Full-Stack Developer with experience building scalable web applications using Django, Flask, React, and modern cloud technologies. Passionate about clean code, automation, and delivering user-focused solutions.
 
-<a href="www.linkedin.com/in/sreenand-tp-a73855353"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sreenand-tp-a73855353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
